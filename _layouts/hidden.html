@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<script type="text/javascript">
+  window.addEventListener('load', () => {
+    const a = document.getElementById('hidden-link');
+    if (a && a.href) {
+      history.pushState(null, '', location.href);
+      history.go(-1);
+      a.click();
+    }
+  });
+</script>
+<p>
+  <a
+    id="hidden-link"
+    href="{{ page.href }}"
+    rel="{{ page.rel }}"
+    target="{{ page.target }}"
+    title="{{ page.title }}"
+    download="{{ page.download }}">
+    {{- page.body -}}
+  </a>
+</p>
+
+{{ content }}
