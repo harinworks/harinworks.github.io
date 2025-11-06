@@ -4,8 +4,8 @@
 
 ---
 
-[![Email Link](https://img.shields.io/badge/Email-Link-F09491?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Harin%20Lee%20%3Cme%40hrin.org%3E)
-[![PGP Link](https://img.shields.io/badge/PGP-Link-F09491?style=for-the-badge&logo=letsencrypt&logoColor=white)](https://keybase.io/harinworks/pgp_keys.asc)
+[![Email Link](https://img.shields.io/badge/Email-Link-F09491?style=for-the-badge&logo=gmail&logoColor=white)](/private/email)
+[![PGP Link](https://img.shields.io/badge/PGP-Link-F09491?style=for-the-badge&logo=letsencrypt&logoColor=white)](/private/pgp)
 
 **Keybase:** [keybase.io/harinworks](https://keybase.io/harinworks) \
 **GitHub:** [github.com/harinworks](https://github.com/harinworks) \
