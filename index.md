@@ -11,6 +11,7 @@
 **GitHub:** [github.com/harinworks](https://github.com/harinworks) \
 **GitLab:** [gitlab.com/harinworks](https://gitlab.com/harinworks) \
 **Codeberg:** [codeberg.org/harinworks](https://codeberg.org/harinworks) \
+**HuggingFace:** [huggingface.co/harinworks](https://huggingface.co/harinworks) \
 **SourceHut:** [sr.ht/~harinworks](https://sr.ht/~harinworks/)
 
 ---
