@@ -1,6 +1,8 @@
 <img src="/assets/img/logo.svg" width="256px" alt="Harin Logo" />
 
-> Software Engineer
+> Heart of nullptr
+
+Full-Stack Developer \| Hardware Hacker \| Linux Kernel Contributor
 
 ---
 
